@@ -15,7 +15,9 @@ Ziptos has four tools which are live. They can be accessed using these links [Zi
 The Ziptos ecosystem not only simplifies blockchain interactions but also drives adoption and innovation. By providing tools and features that lower the barrier to entry, it empowers more people to participate in the blockchain revolution and join the next potential boom chain [Aptos](https://aptoslabs.com/). 
 
 ## Socials
-
+[Webpage](ziptos.io)
+[Twitter](https://x.com/ZIPTOS)
+[Telegram](https://t.me/+aTaFqFH9KzVmZmI1)
 
 
 ## License
