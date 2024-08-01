@@ -7,7 +7,7 @@
 
 **Ziptos** is an innovative suite of tools and solutions built on the Aptos blockchain and the most usable, accessible blockchain app called Telegram
 
-Ziptos has two tools which are live. They can be accessed using these links [Ziployer](https://t.me/ZiptosBot) & [Zipdrip](https://t.me/ZiptosAirdropBot). Currently our tools are compatible with [Aptos](https://aptoslabs.com/) blockchain.
+Ziptos has four tools which are live. They can be accessed using these links [Ziployer](https://t.me/ZiptosBot) [Zipdrip](https://t.me/ZiptosAirdropBot) [Ziploc](https://t.me/ZiptosLockerBot) [ZiptosWallet](https://t.me/ZiptosWalletBot). Currently our tools are compatible with [Aptos](https://aptoslabs.com/) blockchain.
 
 
 ## Background
